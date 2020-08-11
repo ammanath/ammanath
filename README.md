@@ -1,5 +1,6 @@
-### Hi there 👋
+# Hey, I'm Brijesh 👋
 
+[![Twitter Badge](https://img.shields.io/badge/-@akbrijesh-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/akbrijesh)](https://twitter.com/akbrijesh) [![Linkedin Badge](https://img.shields.io/badge/-akbrijesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akbrijesh/)](https://www.linkedin.com/in/akbrijesh/)
 
 [![Brijesh's github stats](https://github-readme-stats.vercel.app/api?username=ammanath)](https://github.com/ammanath/github-readme-stats)
 

@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+[![Brijesh's github stats](https://github-readme-stats.vercel.app/api?username=ammanath)](https://github.com/ammanath/github-readme-stats)
+
+
 <!--
 **ammanath/ammanath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -3,7 +3,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@akbrijesh-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/akbrijesh)](https://twitter.com/akbrijesh) 
 [![Linkedin Badge](https://img.shields.io/badge/-akbrijesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akbrijesh/)](https://www.linkedin.com/in/akbrijesh/)
 
-Great to meet you! 🔭 I'm currently experimenting with Laravel 🦖.
+Great to meet you! 🔭 I'm currently experimenting with GitHub Api's 🦖.
 
 I completed a #100DaysOfCode activity, which got me back into coding after a long hiatus.
 

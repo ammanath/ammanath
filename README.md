@@ -5,9 +5,7 @@
 
 Great to meet you! 🔭 I'm currently experimenting with GitHub Api's 🦖.
 
-I am a counter and I have been incremented <!--counter-->1<!--/counter--> times.
-
-I completed a #100DaysOfCode activity, which got me back into coding after a long hiatus.
+Here is a counter that has been incremented <!--counter-->1<!--/counter--> times.
 
 <a href="https://github.com/ammanath/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=ammanath&show_icons=true&theme=tokyonight" />

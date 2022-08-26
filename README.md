@@ -5,7 +5,7 @@
 
 Great to meet you! 🔭 I'm currently experimenting with GitHub Api's 🦖.
 
-I am a counter and I have been incremented 0 times.
+I am a counter and I have been incremented <!--counter-->0<!--/counter--> times.
 
 I completed a #100DaysOfCode activity, which got me back into coding after a long hiatus.
 

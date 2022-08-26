@@ -5,7 +5,7 @@
 
 Great to meet you! 🔭 I'm currently experimenting with GitHub Api's 🦖.
 
-Here is a counter that has been incremented <!--counter-->1<!--/counter--> times.
+Here is a counter that has been incremented <!--counter-->2<!--/counter--> times.
 
 <a href="https://github.com/ammanath/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=ammanath&show_icons=true&theme=tokyonight" />
